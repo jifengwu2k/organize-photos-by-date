@@ -11,7 +11,7 @@ Organize and copy your photos into folders by their shooting date (from EXIF met
 
 ## Requirements
 
-- Python 3.5+
+- Python 3+
 - [exifread](https://pypi.org/project/ExifRead/)
 
 Install dependencies:
